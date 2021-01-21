@@ -1,0 +1,50 @@
+.clear-fix { clear: both; }
+
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+
+.bg-image {
+	z-index: 0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.text-bg-top {
+	z-index: 0;
+	height: 400px;
+	text-align: center;
+	position: relative;
+}
+.text-bg-top .caption {
+	color: #fff;
+	font-size: 30pt;
+	line-height: 1.7;
+	padding-top: 5em;
+	padding-bottom: 5em;
+	font-weight: bold;
+}
+
+.blog-single .blog-content img{
+	max-width: 100%;
+	height: auto;
+}
+.blog-single .blog-content a{
+   word-break: break-all;
+}
+
+.content-none {
+    text-align: center;
+    font-size: 20px;
+    padding: 80px 10px;
+}
+.content-none .error-number {
+    font-size: 70px;
+}
+.content-none .content-none-btn {
+    margin: 20px auto;
+    text-align: center;
+}
