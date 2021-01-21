@@ -38,7 +38,7 @@
 		<div class="row">
 		  	<div class="col-sm services-item">
 			  <h1 class="text-title">リフォーム</h1>
-			  	<a href="" title="">
+			  	<a title="">
 				  	<div class="service-img wow fadeIn">
 						<img src="<?php echo $template_uri; ?>/img/AdobeStock_373287881_Preview.jpg" alt="">
 				  	</div>
@@ -50,7 +50,7 @@
 		 	 </div>
 			<div class="col-sm services-item wow fadeIn">
 				<h1 class="text-title">土木工事</h1>
-				<a href="" title="">
+				<a title="">
 					<div class="service-img">
 						<img src="<?php echo $template_uri; ?>/img/AdobeStock_179247930_Preview.jpg" alt="">
 					</div>
@@ -62,7 +62,7 @@
 			</div>
 			<div class="col-sm services-item wow fadeIn">
 				<h1 class="text-title">水道施設工事</h1>
-				<a href="" title="">
+				<a title="">
 					<div class="service-img">
 						<img src="<?php echo $template_uri; ?>/img/AdobeStock_200608130_Preview.jpg" alt="">
 					</div>
@@ -73,9 +73,9 @@
 				</div>
 			</div>
 		</div>
-		<div class="col text-center wow fadeIn">
+		<!-- <div class="col text-center wow fadeIn">
 			<a class="btn-green" href="" title=""><i class="fas fa-chevron-right icon-arrow"></i><span>もっと見る</span></a>
-		</div>
+		</div> -->
 	</div>
 </section>
 <section class="about">
@@ -95,11 +95,11 @@
 					原則関東全域ですが、日本全国ご対応いたします。
 					</p>
 				</div>
-				<div class="row">
+				<!-- <div class="row">
 					<div class="col text-center">
 						<a class="btn-green" href="" title=""><i class="fas fa-chevron-right icon-arrow"></i><span>会社概要を見る</span></a>
 					</div>
-				</div>
+				</div> -->
 			</div>
 			<div class="col-lg-7 about-box-full wow fadeIn">
 				<img src="<?php echo $template_uri; ?>/img/AdobeStock_209411440(1).jpg" alt="">
@@ -138,16 +138,16 @@
 					  </tr>
 					  <tr>
 						<th class="tg-73oq">TEL</th>
-						<td class="tg-73oq">045-450-5058</td>
+						<td class="tg-73oq">045-507-9458</td>
 					  </tr>
 					  <tr>
 						<th class="tg-73oq">FAX</th>
-						<td class="tg-73oq">045-450-5059</td>
+						<td class="tg-73oq">045-507-9459</td>
 					  </tr>
-					  <tr>
+					  <!-- <tr>
 						<th class="tg-73oq">取引先一覧</th>
 						<td class="tg-73oq">XXXXXX</td>
-					  </tr>
+					  </tr> -->
 					  <tr>
 						<th class="tg-73oq">保険・保障</th>
 						<td class="tg-73oq">XXXXXX</td>
@@ -194,11 +194,11 @@
 				</div>	
 			</div>
 		</div>
-		<div class="row">
+		<!-- <div class="row">
 			<div class="col text-center wow fadeIn">
 				<a class="btn-green btn-more-detail" href="" title=""><i class="fas fa-chevron-right icon-arrow"></i><span>詳細を見る</span></a>
 			</div>
-		</div>
+		</div> -->
 	</div>
 </section>
 

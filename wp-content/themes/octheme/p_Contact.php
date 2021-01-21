@@ -17,7 +17,7 @@
 	            <div class="wrapp-contact-detail">
 	                <div class="phone-link">
 	                    <img src="<?php echo $template_uri; ?>/img/icon-phone.png" alt="" class="img-icon phone-icon">
-	                    <a href="" title="">045-450-5058</a>
+	                    <a href="tel:045-507-9458" title="">045-507-9458</a>
 	                </div>
 	                <div class="text-bussiness-open">
 	                    <span>平日 9:00~18:00</span>
@@ -88,10 +88,10 @@
 	                                <div class="row">
 	                                    <div class="col-md-6">
 	                                        <select class="form-select" id="" name="fld_inquiry">
-	                                            <option value="0">選択してください</option>
-	                                            <option value="1">One</option>
-	                                            <option value="2">Two</option>
-	                                            <option value="3">Three</option>
+	                                            <option value="" required>選択してください</option>
+	                                            <option value="見積もり">見積もり</option>
+	                                            <option value="採用">採用</option>
+	                                            <option value="その他">その他</option>
 	                                        </select>
 	                                    </div>
 	                                </div>
@@ -127,12 +127,8 @@
 	                                <div class="row">
 	                                    <div class="col-md col-12">
 	                                        <div class="form-check">
-	                                            <input class="form-check-input" type="checkbox" value="" id="check1" required>
-	                                            <label class="form-check-label" for="check1"><a href="" title="">利用規約</a> に同意する</label>
-	                                        </div>
-	                                        <div class="form-check">
 	                                            <input class="form-check-input" type="checkbox" value="" id="check2" required>
-	                                            <label class="form-check-label" for="check2"><a href="" title="">プライバシーポリシー</a>を確認しました</label>
+	                                            <label class="form-check-label" for="check2"><a href="<?php echo home_url('/');?>privacy" title="">プライバシーポリシー</a>を確認しました</label>
 	                                        </div>
 	                                    </div>
 	                                </div>

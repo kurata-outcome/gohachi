@@ -50,19 +50,19 @@
 					<div class="right-top-menu">
 						<div class="phone-link">
 							<img src="<?php echo $template_uri; ?>/img/icon-phone.png" alt="" class="img-icon phone-icon">
-							<a href="" title="">045-450-5058</a>
+							<a href="tel:045-507-9458" title="">045-507-9458</a>
 						</div>
 					</div>
 					<div class="right-bottom-menu">
-						<a class="btn-green btn-contact" href="/contact" title=""><i class="fas fa-chevron-right icon-arrow"></i><span>お問い合わせ</span></a>
+						<a class="btn-green btn-contact" href="<?php echo home_url('/');?>contact" title=""><i class="fas fa-chevron-right icon-arrow"></i><span>お問い合わせ</span></a>
 						<div class="main-menu">
-							<?php wp_nav_menu( $main_menu_args ); ?>
+							<!-- <?php wp_nav_menu( $main_menu_args ); ?> -->
 						</div>
-						<div class="burger-icon">
+						<!-- <div class="burger-icon">
 							<div class="burger-line burger-line-1"></div>
 							<div class="burger-line burger-line-2"></div>
 							<div class="burger-line burger-line-3"></div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
