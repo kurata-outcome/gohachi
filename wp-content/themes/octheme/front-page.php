@@ -40,7 +40,7 @@
 			  <h1 class="text-title">リフォーム</h1>
 			  	<a title="">
 				  	<div class="service-img wow fadeIn">
-						<img src="<?php echo $template_uri; ?>/img/AdobeStock_373287881_Preview.jpg" alt="">
+						<img src="<?php echo $template_uri; ?>/img/reform.jpg" alt="">
 				  	</div>
 				</a>
 				<div class="text-des wow fadeIn">
@@ -52,7 +52,7 @@
 				<h1 class="text-title">土木工事</h1>
 				<a title="">
 					<div class="service-img">
-						<img src="<?php echo $template_uri; ?>/img/AdobeStock_179247930_Preview.jpg" alt="">
+						<img src="<?php echo $template_uri; ?>/img/doboku.jpg" alt="">
 					</div>
 				</a>
 				<div class="text-des">
@@ -64,7 +64,7 @@
 				<h1 class="text-title">水道施設工事</h1>
 				<a title="">
 					<div class="service-img">
-						<img src="<?php echo $template_uri; ?>/img/AdobeStock_200608130_Preview.jpg" alt="">
+						<img src="<?php echo $template_uri; ?>/img/suido.jpg" alt="">
 					</div>
 				</a>
 				<div class="text-des">
@@ -120,7 +120,7 @@
 					  <tr>
 						<th class="tg-73oq">所在地</th>
 						<td class="tg-73oq"><span>〒224-0053</br>
-							神奈川県横浜市都筑区池辺町3120-2</span>></td>
+							神奈川県横浜市都筑区池辺町3120-2</span></td>
 					  </tr>
 					  <tr>
 						<th class="tg-73oq">資本金</th>
@@ -150,7 +150,7 @@
 					  </tr> -->
 					  <tr>
 						<th class="tg-73oq">保険・保障</th>
-						<td class="tg-73oq">XXXXXX</td>
+						<td class="tg-73oq">生産物賠償責任保険<br>請負業者賠償責任保険</td>
 					  </tr>
 					</tbody>
 				</table>
@@ -158,7 +158,7 @@
 		</div>
 	</div>
 </section>
-<section class="construction-flow" style="background-image: url('<?php echo $template_uri; ?>/img/AdobeStock_195231628_Preview.jpg');">
+<section class="construction-flow" style="background-image: url('<?php echo $template_uri; ?>/img/gohachi-flow.jpg');">
 	<div class="overlay-green"></div>
 	<div class="container-xxl">
 		<div class="row">

@@ -3,7 +3,7 @@
 	get_header();
 	$template_uri = get_template_directory_uri();
 ?>
-    <section class="header-cover-title" style="background-image: url('<?php echo $template_uri; ?>/img/AdobeStock_282090794_Preview.jpg');">
+    <section class="header-cover-title" style="background-image: url('<?php echo $template_uri; ?>/img/cover-contact.jpg');">
         <div class="overlay-green"></div>
         <div class="container">
             <h1 class="text-title wow fadeIn">プライバシーポリシー</h1>

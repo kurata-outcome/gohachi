@@ -4,7 +4,7 @@
 	$template_uri = get_template_directory_uri();
 ?>
 	<script src='https://www.google.com/recaptcha/api.js'></script>
-	    <section class="header-cover-title" style="background-image: url('<?php echo $template_uri; ?>/img/AdobeStock_165803784_Preview.jpg');">
+	    <section class="header-cover-title" style="background-image: url('<?php echo $template_uri; ?>/img/cover-contact.jpg');">
 	        <div class="overlay-green"></div>
 	        <div class="container">
 	            <h1 class="text-title wow fadeIn">お問い合わせ</h1>

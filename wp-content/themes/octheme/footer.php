@@ -18,14 +18,14 @@
 			</div>
 			<div class="row">
 				<div class="container-flex">
-					<div class="col-flex wow fadeIn" style="background-image: url('<?php echo $template_uri; ?>/img/AdobeStock_232020381_Preview.jpg');">
-						<a href="tel:045-450-5059" class="overlay-green"></a>
+					<div class="col-flex wow fadeIn" style="background-image: url('<?php echo $template_uri; ?>/img/gohachi-tel.jpg');">
+						<a href="tel:045-507-9458" class="overlay-green"></a>
 						<div class="contact-info">
-							<a href="tel:045-450-5059" class="contact-number" title=""><span>045-450-5059</span></a>
+							<a href="tel:045-507-9458" class="contact-number" title=""><span>045-507-9458</span></a>
 							<p>受付日時</br>平日 9:00~18:00</p>
 						</div>
 					</div>
-					<div class="col-flex wow fadeIn" style="background-image: url('<?php echo $template_uri; ?>/img/AdobeStock_215665703_Preview.jpg');">
+					<div class="col-flex wow fadeIn" style="background-image: url('<?php echo $template_uri; ?>/img/contact.jpg');">
 						<a href="<?php echo home_url('/');?>contact" class="overlay-green"></a>
 						<div class="contact-info">
 							<a href="<?php echo home_url('/');?>contact" class="text-detail">お問い合わせフォーム</a>
