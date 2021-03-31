@@ -24,7 +24,7 @@ foreach ( $_POST as $key => $value ) {
 
 $use_google_recaptcha     = false;
 if ( ! empty($google_recaptcha_sitekey) && ! empty($google_recaptcha_secret) ) {
-    //$use_google_recaptcha = true;
+    $use_google_recaptcha = true;
 }
 
 if ( ! isset( $_SERVER['HTTP_REFERER'] ) ) {
