@@ -52,6 +52,7 @@
 							<a href="https://twitter.com/gohachi_5858" target="_blank" rel="noreferrer"  title="" class="link-icon-info"><span>Twitter</span></a>
 						</div>
 					</div>
+					<div style="width:250px;margin-bottom:20px;"><a href="https://www.ribilo.com/paint/" target="_blank"><img src="https://www.ribilo.com/paint/img/widget/trophy250.png" alt="外壁塗装の専門業者の紹介サイトリビロペイント" /></a><div style="background-color:#d6bc75;text-align:center;padding:3px 0;font-size:13px;"><a href="https://www.ribilo.com/paint/14/14100" style="color:#fff;">外壁塗装横浜市</a></div></div>
 				</div>
 				<div class="col-md-8 wow fadeIn">
 					<!-- <?php wp_nav_menu( $footer_menu_args ); ?> -->
